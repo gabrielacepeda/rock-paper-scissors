@@ -3,4 +3,4 @@
 
 
 
-![alt tag](http://placecorgi.com/1200/650)
+![rockpaper preview](https://github.com/gabrielacepeda/rock-paper-scissors/blob/master/rock_paper_scissors/rockpaperpreview.png)
